@@ -1,0 +1,27 @@
+{
+  "name": "elm-payment-card",
+  "version": "1.0.0",
+  "description": "Elm Workshop",
+  "main": "index.js",
+  "scripts": {
+    "start": "elm-live Main.elm --output=index.html --port=7700",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miladvafaeifard/elm-payment-card.git"
+  },
+  "keywords": [
+    "elm"
+  ],
+  "author": "Milad Vafaeifard",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miladvafaeifard/elm-payment-card/issues"
+  },
+  "homepage": "https://github.com/miladvafaeifard/elm-payment-card#readme",
+  "devDependencies": {
+    "elm": "^0.18.0",
+    "elm-live": "^2.7.5"
+  }
+}
